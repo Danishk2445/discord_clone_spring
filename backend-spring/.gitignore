@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+data/uploads/
+.env
+.idea/
+*.iml
+.vscode/
